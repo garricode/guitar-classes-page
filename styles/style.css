@@ -72,6 +72,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+/* the image for .banner is hosted on unsplash */
   background-image: url(https://images.unsplash.com/photo-1543062094-d22540cadf2d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80);
   background-size: cover;
 }
