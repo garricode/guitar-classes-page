@@ -72,7 +72,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(/images/guitar-player.jpg);
+  background-image: url(images/guitar-player.jpg);
   background-size: cover;
 }
 
